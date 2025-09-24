@@ -1,6 +1,6 @@
 # 💻 Tiago Materagia
 
-**`Desenvolvedor Fron-End`**
+**`Desenvolvedor Front-end`**
 
 Me chamo Tiago Materagia, tenho 19 anos e sou natural da cidade de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Sou apaixonado por tecnologia e estou sempre em busca de conhecimento.
 
